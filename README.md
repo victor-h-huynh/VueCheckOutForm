@@ -1,34 +1,14 @@
-# alayacare
+# "Checkout Form" - Vue.js Exercise
+=====================
+
+# Overview
+
+Reconstructing a UX-design from scratch while learning Vue.js
 
 ## Project setup
 ```
-npm install
+1. Fork this repository, then clone your fork of this repository.
+2. npm install
+3. npm run serve
+4. open http://localhost:8080
 ```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
