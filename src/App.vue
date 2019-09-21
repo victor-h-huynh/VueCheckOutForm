@@ -15,7 +15,7 @@ export default {
     Home
   },
   data: () => ({
-    //
+    // State of the component
   })
 };
 </script>
