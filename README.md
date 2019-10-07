@@ -13,7 +13,8 @@ Reconstructing a UX-design from scratch while learning Vue.js
 4. open http://localhost:8080
 ```
 ### Final Product
-UX-design
+#### UX-design
 !["Screenshot of checkoutForm messages"](https://github.com/victor-h-huynh/VueCheckOutForm/blob/master/docs/checkOutForm1.png?raw=true)
-Final Product
+
+#### Final Product
 !["Screenshot of checkoutForm messages"](https://github.com/victor-h-huynh/VueCheckOutForm/blob/master/docs/checkOutForm2.png?raw=true)
