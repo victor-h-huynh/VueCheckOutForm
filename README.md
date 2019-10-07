@@ -3,7 +3,7 @@
 
 # Overview
 
-Reconstructing a UX-design from scratch while learning Vue.js
+Reconstructed a UX-design from scratch while learning Vue.JS
 
 ## Project setup
 ```
